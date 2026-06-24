@@ -6,4 +6,6 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/thiwanka-madhusanka/">LinkedIn</a> • <a href="mailto:thiwankamadhusankaalwis@gmail.com">Email</a> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiwanka-dev&layout=compact&theme=tokyonight)
+
 <p align="center"> ⭐ Building Data-Driven Solutions </p>
