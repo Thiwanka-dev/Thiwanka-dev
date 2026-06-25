@@ -7,4 +7,4 @@
 <p align="center"> <a href="https://www.linkedin.com/in/thiwanka-madhusanka/">LinkedIn</a> • <a href="mailto:thiwankamadhusankaalwis@gmail.com">Email</a> </p>
 
 
-<p align="center"> ⭐ Building Data-Driven Solutions </p>
+<p align="center"> ⭐ Building Data-Driven Solutions. </p>
